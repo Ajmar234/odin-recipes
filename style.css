@@ -1,0 +1,12 @@
+.title {
+    color: white;
+    background-color: purple;
+    font-size: 42px;
+    font-family: "Helvetica";
+    text-align: center;
+}
+
+li {
+    font-size: 38px;
+    color: red;
+}
